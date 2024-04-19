@@ -7,3 +7,4 @@ while 1 > a or a > 11:
     if 1 <= a <= 10:
         print("Finally, your number is " + str(a))
         print("Smart ass nigga")
+        print("Thanks Pavel!1")
